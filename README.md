@@ -19,3 +19,12 @@ Desarrollado con Node.js y Express, proporciona endpoints para interactuar con l
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/JoseCarlos00/inventory-manager-api.git
+
+2. Instala las dependencias:
+   ```bash
+   npm install
+
+3. Corre la API:
+   ```bash
+   npm start
+
